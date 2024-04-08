@@ -1,7 +1,3 @@
-[submodule "binutils"]
-	path = binutils
-	url = https://sourceware.org/git/binutils-gdb.git
-	branch = binutils-2_42-branch
 [submodule "gcc"]
 	path = gcc
 	url = https://gcc.gnu.org/git/gcc.git
@@ -40,3 +36,6 @@
 	path = llvm
 	url = https://github.com/llvm/llvm-project.git
 	branch = release/17.x
+[submodule "binutils"]
+	path = binutils
+	url = https://github.com/riscduino/binutils-gdb.git
