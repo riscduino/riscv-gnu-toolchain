@@ -12,6 +12,7 @@ R[r1] = R[r2] % R[r3]
 #1.  Clone the RISC-V opcodes repository: 
 ```
    git clone --depth 1 https://github.com/riscduino/riscv-opcodes.git
+   cd riscv-opcodes
 ```
 
 #2. Adding the instruction to the RISC-V opcodes repository:
