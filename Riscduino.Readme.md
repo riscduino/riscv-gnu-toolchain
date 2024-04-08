@@ -1,6 +1,6 @@
 
-This file Documents the sequence step to add custom instruction into the riscv toolchain
-File contributor: Mukund Vijayvergiya<mukundv.cs22@rvce.edu.in>/S SAHANA <ssahana.cs22@rvce.edu.in>
+<p>This file Documents the sequence step to add custom instruction into the riscv toolchain</p>.
+<p>File contributor: Mukund Vijayvergiya<mukundv.cs22@rvce.edu.in>/S SAHANA <ssahana.cs22@rvce.edu.in></p>
 
 Instruction to be added:
 
